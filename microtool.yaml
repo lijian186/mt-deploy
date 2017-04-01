@@ -12,4 +12,5 @@ image:
     password: "shenzen"
   imageName: "idea-mt-swagger-editor"
   tag: "v1.0.4"
+httpPorts: ["8080"]
 categories: ["testers"]
