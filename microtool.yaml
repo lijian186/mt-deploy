@@ -1,6 +1,6 @@
 ---
-name: "npm"
-version: "1.1.6"
+name: "jslint"
+version: "1.0.7"
 description: "cloud9 Microtool"
 avatar: "https://placehold.it/50/123456"
 author: "Lijian"
@@ -10,6 +10,6 @@ image:
     url: "docker-registry.xlab.si"
     username: "huawei"
     password: "shenzen"
-  imageName: "idea-mt-npm"
-  tag: "v1.1.6"
+  imageName: "idea-mt-jslint"
+  tag: "v1.0.7"
 categories: ["testers"]
