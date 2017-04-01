@@ -1,6 +1,6 @@
 ---
-name: "cloud9"
-version: "0.5.5"
+name: "npm"
+version: "1.1.6"
 description: "cloud9 Microtool"
 avatar: "https://placehold.it/50/123456"
 author: "Lijian"
@@ -10,7 +10,7 @@ image:
     url: "docker-registry.xlab.si"
     username: "huawei"
     password: "shenzen"
-  imageName: "idea-mt-cloud9"
-  tag: "v0.5.5"
+  imageName: "idea-mt-npm"
+  tag: "v1.1.6"
 httpPorts: ["3131"]
 categories: ["testers"]
