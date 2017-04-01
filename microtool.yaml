@@ -12,5 +12,4 @@ image:
     password: "shenzen"
   imageName: "idea-mt-npm"
   tag: "v1.1.6"
-httpPorts: ["3131"]
 categories: ["testers"]
