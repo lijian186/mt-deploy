@@ -1,7 +1,7 @@
 ---
-name: "mocha"
-version: "1.0.1"
-description: "Mocha Microtool"
+name: "cloud9"
+version: "0.5.5"
+description: "cloud9 Microtool"
 avatar: "https://placehold.it/50/123456"
 author: "Lijian"
 repoLink: "https://github.com/lijian186/mt-deploy.git"
@@ -10,6 +10,6 @@ image:
     url: "docker-registry.xlab.si"
     username: "huawei"
     password: "shenzen"
-  imageName: "idea-mt-mocha"
-  tag: "v1.1.8"
+  imageName: "idea-mt-cloud9"
+  tag: "v0.5.5"
 categories: ["testers"]
