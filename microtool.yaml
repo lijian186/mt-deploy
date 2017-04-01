@@ -1,7 +1,7 @@
 ---
-name: "gulp"
-version: "0.2.5"
-description: "Gulp Microtool"
+name: "bower"
+version: "0.1.4"
+description: "bower Microtool"
 avatar: "https://placehold.it/50/123456"
 author: "Lijian"
 repoLink: "https://github.com/lijian186/mt-deploy.git"
@@ -10,7 +10,7 @@ image:
     url: "docker-registry.xlab.si"
     username: "huawei"
     password: "shenzen"
-  imageName: "idea-mt-gulp"
-  tag: "v0.2.5"
+  imageName: "idea-mt-bower"
+  tag: "v0.1.4"
 httpPorts: ["9002"]
 categories: ["testers"]
