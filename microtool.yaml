@@ -1,16 +1,16 @@
 ---
-name: "bower"
-version: "0.1.4"
-description: "bower Microtool"
+name: "pyenv"
+version: "0.0.1"
+description: "Pyenv Microtool"
 avatar: "https://placehold.it/50/123456"
 author: "Lijian"
-repoLink: "https://github.com/lijian186/mt-deploy.git"
+repoLink: "http://rnd-isourceb.huawei.com/l00314631/py-mt-deploy.git"
 image:
   registry:
-    url: "docker-registry.xlab.si"
-    username: "huawei"
-    password: "shenzen"
-  imageName: "idea-mt-bower"
-  tag: "v0.1.4"
-httpPorts: ["9002"]
+    url: "qeesungy.host.huawei.com:5444"
+    username: "admin"
+    password: "admin123"
+  imageName: "idea-mt-pyenv"
+  tag: "latest"
+httpPorts: ["8099"]
 categories: ["testers"]
